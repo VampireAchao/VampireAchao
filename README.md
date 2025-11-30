@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![VampireAchao's GitHub stats](https://github-readme-stats.vercel.app/api?username=VampireAchao)](https://github.com/VampireAchao)
+[![VampireAchao's GitHub stats](https://github-readme-stats-1edi.vercel.app/api?username=VampireAchao)](https://github.com/VampireAchao)
 
 <a href="https://gitroll.io/profile/uewudl0P5i3RFBgeaygoED97Rn8S2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uewudl0P5i3RFBgeaygoED97Rn8S2" alt="GitRoll Profile Badge"/></a>
 
